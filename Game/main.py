@@ -39,6 +39,10 @@ print(f'mean score of {'name'}:{MeanScore(students, 'Maqa')} ')
 
 # task2
 
+
+
+
+
 import random
 def TestYourLuck():
   RandomNumber = random.randint(1, 100)
